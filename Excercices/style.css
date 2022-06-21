@@ -1,0 +1,76 @@
+html {
+    margin: 5% 5%;
+    border: black 1px solid;
+}
+
+header { 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    border: red 1px solid;
+    padding: 10px;
+    margin:40px;
+    opacity: 0.9;
+    border: 1 s;
+}
+
+h1 {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 50px;
+}
+
+span {
+    color: #c71010;
+}
+
+h2 { 
+    font-family: 'Quicksand', sans-serif;
+    font-size: 25px;
+    background-color: #d60909 ;
+    margin-right: 70px;
+    padding: 2px;
+    opacity: 0.7;
+}
+
+img {
+    height: 200px;
+    width: auto;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+
+section {
+    width: 900px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.colgauche {
+    width: 350px;
+    float: left;
+  
+}
+
+ul li {
+    list-style: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 2;
+}
+
+ul {
+    padding: 0;
+}
+
+.coldroite {
+    margin-left:;
+    float: right;
+    position: sticky;
+}
+
+
+.coldroite span {
+    font-style: italic;
+    color: rgb(92, 92, 92);
+}
+
